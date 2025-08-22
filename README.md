@@ -51,5 +51,11 @@ Hello World!
   - Excited about how technology can enhance customer experience and business strategy
   - Passionate about exploring the synergy between **tech and sales** as a path to innovation
 
-  --- ## 🖥️ **Project ** 
+  ---
+
+  ## 🖥️ **Project **
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
     
