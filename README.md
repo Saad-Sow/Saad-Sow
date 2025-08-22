@@ -22,6 +22,12 @@ Hello World!
 - **Volunteer Work:**
   - Volunteer at **Room to Grow Daycare**
     - Help manage inventory and ensure high-quality supplies
+- **Coding & Web Development:**
+  - Completed a **6-week intensive course** at *The Knowledge House* through KKCF
+  - Gained hands-on experience in:
+    - **HTML**
+    - **CSS**
+    - **JavaScript**
 - **Languages:**
   - Fluent in **English**, **French**, and **Fulani**
 - **Current Goal:**
@@ -34,12 +40,7 @@ Hello World!
 - **Technology & Innovation:**
   - Fascinated by the role of tech in shaping the modern world  
   - Especially interested in **cybersecurity** and how systems are protected (or breached)
-- **Coding & Web Development:**
-  - Completed a **6-week intensive course** at *The Knowledge House* through KKCF
-  - Gained hands-on experience in:
-    - **HTML**
-    - **CSS**
-    - **JavaScript**
+
 - **Sales & Communication:**
   - Believe sales is a core life skill—applicable in pitching ideas, interviews, and leadership
   - Interested in how sales, persuasion, and communication can:
