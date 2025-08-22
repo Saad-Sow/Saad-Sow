@@ -4,7 +4,7 @@ Hello World!
 ## 👋 About Me
 
 - **Name:** Saad Sow  
-- **Interests:** Passionate about STEM, technology, and problem-solving  
+- **Interests:** Passionate about STEM, technology, sales and problem-solving  
 - **Education & Certifications:**
   - Completed the **STEM Inventory Lab Program** at *The Cooper Union’s Albert Nerken School of Engineering*
   - Earned certifications in:
@@ -50,3 +50,6 @@ Hello World!
 - **Tech + Sales Integration:**
   - Excited about how technology can enhance customer experience and business strategy
   - Passionate about exploring the synergy between **tech and sales** as a path to innovation
+
+  --- ## 🖥️ **Project ** 
+    
