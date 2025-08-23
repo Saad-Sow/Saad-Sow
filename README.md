@@ -54,7 +54,8 @@ Hello World!
   ---
 
   ## 🖥️ **Project **
-https://saad-sow.github.io/Final%20Project/
+[Visit my website](https:https://saad-sow.github.io/Final%20Project/)
+
 ---
 ## 🔍 Find me
 
