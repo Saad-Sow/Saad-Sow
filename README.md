@@ -53,7 +53,7 @@ Hello World!
 
   ---
 
-  ## 🖥️ **Project **
+  ## 🖥️ **Project**
 [Visit my website](https:https://saad-sow.github.io/Final%20Project/)
 
 ---
